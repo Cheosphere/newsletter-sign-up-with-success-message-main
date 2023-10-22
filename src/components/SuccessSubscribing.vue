@@ -2,7 +2,7 @@
 const props = defineProps(['message'])
 
 const goToHome = () => {
-  window.location.href = '/'
+  window.location.href = 'https://cheosphere.github.io/newsletter-sign-up-with-success-message-main/'
 }
 </script>
 
