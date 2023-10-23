@@ -5,6 +5,8 @@ El desafío es construir este formulario de boletín y hacer que se parezca lo m
 - HTML
 - CSS
 - Vue JS - Composition API & Vite
+  
+![desktop-preview](https://github.com/Cheosphere/newsletter-sign-up-with-success-message-main/assets/112582420/a31af0ef-85d3-42ea-b56a-58fd9a9bf3bc)
 
 # Guía de Estilo
 
