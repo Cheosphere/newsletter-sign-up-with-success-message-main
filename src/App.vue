@@ -28,6 +28,7 @@ function emailReceived(data) {
   height: 100%;
   background-color: var(--charcoal-grey);
   animation: fadein 1s ease-in-out; 
+  box-shadow: 0 10px 50px rgba(0, 0, 0, 0.25);
 }
 
 @keyframes fadein {
